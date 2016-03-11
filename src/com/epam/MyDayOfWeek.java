@@ -1,7 +1,7 @@
 package com.epam;
 
 /**
- * Created by Любовь on 11.03.2016.
+ * Created by Hrinchenko on 11.03.2016.
  */
 public enum MyDayOfWeek {
 
